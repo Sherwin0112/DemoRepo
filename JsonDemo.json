@@ -1,0 +1,16 @@
+{
+  "Rooms": [
+    {
+      "RoomName": "Deluxe Suite",
+      "Price": 120.50,
+      "IsSoldOut": false,
+      "ImagePath": "/Game/UI/DeluxeSuite"
+    },
+    {
+      "RoomName": "Ocean View",
+      "Price": 200.00,
+      "IsSoldOut": true,
+      "ImagePath": "/Game/UI/OceanView"
+    }
+  ]
+}
