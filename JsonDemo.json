@@ -1,12 +1,14 @@
 {
   "Rooms": [
     {
+      "UserId":"0",
       "RoomName": "Deluxe Suite",
       "Price": 120.50,
       "IsSoldOut": false,
       "ImagePath": "/Game/UI/DeluxeSuite"
     },
     {
+      "UserId":"1",
       "RoomName": "Ocean View",
       "Price": 200.00,
       "IsSoldOut": true,
